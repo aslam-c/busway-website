@@ -1,54 +1,53 @@
 <template>
-  <div class="justify-center">
-    <h2
-      class="text-4xl inline font-normal leading-normal mt-1 mb-2 text-blueGray-800 "
-    >
-      Terms and Conditions
-    </h2>
-    <p
-      class="text-lg font-mono font-light leading-relaxed mt-0 mb-4 text-blueGray-800 "
-    >
-      <b
-        >I will be the leader of a company that ends up being worth billions of
-        dollars, because I got the answers. I understand culture. I am the
-        nucleus. I think that’s a responsibility that I have, to push
-        possibilities, to show people, this is the level that things could be
-        at.</b
-      >
-    </p>
-    <p
-      class="text-lg font-mono font-light leading-relaxed mt-0 mb-4 text-blueGray-800 "
-    >
-      <b
-        >I will be the leader of a company that ends up being worth billions of
-        dollars, because I got the answers. I understand culture. I am the
-        nucleus. I think that’s a responsibility that I have, to push
-        possibilities, to show people, this is the level that things could be
-        at.</b
-      >
-    </p>
-    <p
-      class="text-lg font-mono font-light leading-relaxed mt-0 mb-4 text-blueGray-800 "
-    >
-      <b
-        >I will be the leader of a company that ends up being worth billions of
-        dollars, because I got the answers. I understand culture. I am the
-        nucleus. I think that’s a responsibility that I have, to push
-        possibilities, to show people, this is the level that things could be
-        at.</b
-      >
-    </p>
-    <p
-      class="text-lg font-mono font-light leading-relaxed mt-0 mb-4 text-blueGray-800 "
-    >
-      <b
-        >I will be the leader of a company that ends up being worth billions of
-        dollars, because I got the answers. I understand culture. I am the
-        nucleus. I think that’s a responsibility that I have, to push
-        possibilities, to show people, this is the level that things could be
-        at.</b
-      >
-    </p>
+  <div class="m-2">
+    <main class="max-w-2xl mt-20 mx-auto">
+      <h1 class="text-3xl font-display font-black">Terms and Conditions</h1>
+      <section class="text-gray-900 font-mono pb-8">
+        <p class="my-4">
+          Your privacy is important to us. It is TheseMetrics' policy to respect
+          your privacy regarding any information we may collect from you across
+          our website,
+          <a class="text-primary-600" href="https://thesemetrics.org"
+            >https://thesemetrics.org</a
+          >, and other sites we own and operate.
+        </p>
+        <p class="my-4">
+          We only ask for personal information when we truly need it to provide
+          a service to you. We collect it by fair and lawful means, with your
+          knowledge and consent. We also let you know why we’re collecting it
+          and how it will be used.
+        </p>
+        <p class="my-4">
+          We only retain collected information for as long as necessary to
+          provide you with your requested service. What data we store, we’ll
+          protect within commercially acceptable means to prevent loss and
+          theft, as well as unauthorized access, disclosure, copying, use or
+          modification.
+        </p>
+        <p class="my-4">
+          We don’t share any personally identifying information publicly or with
+          third-parties, except when required to by law.
+        </p>
+        <p class="my-4">
+          Our website may link to external sites that are not operated by us.
+          Please be aware that we have no control over the content and practices
+          of these sites, and cannot accept responsibility or liability for
+          their respective privacy policies.
+        </p>
+        <p class="my-4">
+          You are free to refuse our request for your personal information, with
+          the understanding that we may be unable to provide you with some of
+          your desired services.
+        </p>
+        <p class="my-4">
+          Your continued use of our website will be regarded as acceptance of
+          our practices around privacy and personal information. If you have any
+          questions about how we handle user data and personal information, feel
+          free to contact us.
+        </p>
+        <p class="my-4">This policy is effective as of 25 July 2020.</p>
+      </section>
+    </main>
   </div>
 </template>
 
