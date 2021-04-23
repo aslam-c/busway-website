@@ -2,8 +2,7 @@ import Vue from "vue";
 import Router from "vue-router";
 import Home from "../components/Home";
 import ContactUs from "../components/ContactUs";
-import Terms from "../components/Terms";
-import AboutUs from "../components/AboutUs";
+import PrivacyPolicy from "../components/PrivacyPolicy";
 import RefundPolicy from "../components/RefundPolicy";
 
 Vue.use(Router);
@@ -23,14 +22,9 @@ export default new Router({
       component: ContactUs,
     },
     {
-      path: "/about-us",
-      name: "about-us",
-      component: AboutUs,
-    },
-    {
-      path: "/terms",
-      name: "terms",
-      component: Terms,
+      path: "/privacy-policy",
+      name: "privacy",
+      component: PrivacyPolicy,
     },
     {
       path: "/refund-policy",

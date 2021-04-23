@@ -24,7 +24,7 @@
         >
         </textarea>
         <button
-          class="text-center w-full bg-blue-900 rounded-md text-white py-3 font-medium"
+          class="text-center w-full bg-black rounded-md text-white py-3 font-medium"
         >
           Send
         </button>

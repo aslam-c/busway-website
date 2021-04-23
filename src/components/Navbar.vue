@@ -83,17 +83,10 @@
                 aria-current="page"
                 >Home</router-link
               >
-
               <router-link
-                to="/about-us"
+                to="/privacy-policy"
                 class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-                >About us</router-link
-              >
-
-              <router-link
-                to="/terms"
-                class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-                >Terms & Conditions</router-link
+                >Privacy Policy</router-link
               >
 
               <router-link
@@ -127,17 +120,10 @@
           aria-current="page"
           >Home</router-link
         >
-
         <router-link
-          to="/about-us"
+          to="/privacy-policy"
           class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-          >About Us</router-link
-        >
-
-        <router-link
-          to="/terms"
-          class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-          >Terms & Conditions</router-link
+          >Privacy Policy</router-link
         >
 
         <router-link
