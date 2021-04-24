@@ -356,7 +356,7 @@
         <h1 class="text-3xl font-black">Contact Us</h1>
         <p class="my-4">
           If you have any questions about this Privacy Policy, You can contact
-          us: By email: info@theqoq.com
+          us: By email: <a href="mailto:info@theqoq.com">info@theqoq.com</a>
         </p>
       </section>
     </main>

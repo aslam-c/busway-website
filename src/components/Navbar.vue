@@ -116,23 +116,27 @@
         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
         <router-link
           to="/"
+          @click.native="isMobileMenuOpen = !isMobileMenuOpen"
           class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
           aria-current="page"
           >Home</router-link
         >
         <router-link
           to="/privacy-policy"
+          @click.native="isMobileMenuOpen = !isMobileMenuOpen"
           class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
           >Privacy Policy</router-link
         >
 
         <router-link
           to="/refund-policy"
+          @click.native="isMobileMenuOpen = !isMobileMenuOpen"
           class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
           >Refund Policy</router-link
         >
         <router-link
           to="/contact-us"
+          @click.native="isMobileMenuOpen = !isMobileMenuOpen"
           class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
           >Contact Us</router-link
         >

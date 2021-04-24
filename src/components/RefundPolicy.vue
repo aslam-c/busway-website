@@ -15,7 +15,9 @@
         </p>
         <p class="my-4">
           If you have any questions about our Returns and Refunds Policy, please
-          contact us By email:info@theqoq.com
+          contact us By email:<a href="mailto:info@theqoq.com"
+            >info@theqoq.com</a
+          >
         </p>
       </section>
     </main>
