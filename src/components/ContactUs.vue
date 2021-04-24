@@ -1,17 +1,15 @@
 <template>
-  <div class="h-screen bg-white flex flex-col justify-center items-center">
-    <div class="bg-white w-200 shadow-xl rounded p-10">
-      <h1 class="text-3xl font-medium">Contact Us</h1>
-      <p class="text-sm">Reach us by sending a message</p>
-
-      <div class="">
-        <h3 class="text-2xl font-display">
-          Email:<a href="mailto:info@theqoq.com">info@theqoq.com</a>
-        </h3>
-        Phone:+91 70120068096
-      </div>
-    </div>
-  </div>
+  <main class="max-w-3xl mt-20 ml-5">
+    <h1 class="text-3xl font-display font-black">Contact Info</h1>
+    <section class="text-gray-900 font-mono pb-8">
+      <p class="my-4">
+        Email:<a href="mailto:info@theqoq.com">info@theqoq.com</a>
+      </p>
+      <p class="my-4">
+        Phone:<a href="callto:+9170120068096">+9170120068096</a>
+      </p>
+    </section>
+  </main>
 </template>
 
 <script>
